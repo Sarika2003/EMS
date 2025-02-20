@@ -27,7 +27,7 @@ and so on....
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Sarika2003/EMS.git
    ```
 2. Navigate to the project directory:
    ```bash
