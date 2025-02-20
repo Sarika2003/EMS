@@ -1,5 +1,10 @@
 # Employee Management system
-An employee task management web application that supports role-based login (admin and employee) and provides features like task creation, updating, marking as completed/failed, and viewing task statistics.
+Employee Management System (EMS) is a web-based application designed to efficiently manage employee records and roles. Built using React.js, this project helps organizations keep track of employees with a seamless user interface.
+
+# Tech Stack
+ - **Frontend:** React.js, Vite, Tailwind CSS
+ - **State Management:** Context API
+ - **Storage:** LocalStorage (for handling user data persistency)
 
 ## User Login Credentials
 
@@ -42,10 +47,12 @@ and so on....
    npm run dev
    ```
 
-![Screenshot 2024-12-11 031949](https://github.com/user-attachments/assets/e5f972d2-a9ba-4656-9232-32d623179e57)
-![Screenshot 2024-12-11 031913](https://github.com/user-attachments/assets/a3926a77-172c-4273-8200-2ee71bc0eefb)
-![Screenshot 2024-12-11 031802](https://github.com/user-attachments/assets/5ceb08c0-bb2f-43ba-abea-414cad004111)
-![Screenshot 2024-12-11 031656](https://github.com/user-attachments/assets/8315cf92-3cb0-42c5-b03c-c05e6430a82b)
-![Screenshot 2024-12-11 031631](https://github.com/user-attachments/assets/4091046c-e10f-4674-be4c-00bec828babe)
-![Screenshot 2024-12-11 031545](https://github.com/user-attachments/assets/0358e1cb-c469-47fd-bb58-95c5df12338e)
+
+![Screenshot 2025-02-20 155233](https://github.com/user-attachments/assets/0bcc2805-8bdc-4e6b-9680-4787bd558a24)
+
+![Screenshot 2025-02-20 155026](https://github.com/user-attachments/assets/22146fe1-adb1-49e3-9096-35f859f5bc54)
+
+![Screenshot 2025-02-20 155115](https://github.com/user-attachments/assets/f028facd-9bd9-4b4d-bad4-db70019dcb2b)
+
+![Screenshot 2025-02-20 155135](https://github.com/user-attachments/assets/92bd3393-05df-4d60-a93d-d29275bd6c4e)
 
